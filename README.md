@@ -1,1 +1,1 @@
-# Twitter Clone App
+# Twitter Clone App FE && BE
